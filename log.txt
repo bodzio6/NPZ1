@@ -1,0 +1,11 @@
+commit 4815d10130ec4268561d0c927513fab6edbfd6cd
+Author: Bartek B <twoj@email.com>
+Date:   Mon Dec 11 09:03:46 2023 +0100
+
+    ignorowanie.docx
+
+commit 8de53a3cbb0da6f749cf1d44dbaec94d21dde649
+Author: Bartek B <twoj@email.com>
+Date:   Mon Dec 11 08:55:47 2023 +0100
+
+    ciuchcia
